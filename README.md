@@ -1,10 +1,10 @@
 # Scrolling to Elements & the Top of the Page in React
 
-Demo for tutorial [How to Scroll to an Element in React](https://youtube.com/colbyfayock)
+Demo for tutorial [How to Scroll to an Element in React](https://www.youtube.com/watch?v=MjHlltcA-nA)
 
-📝 Article: https://spacejelly.dev/
+📝 Article: https://spacejelly.dev/posts/how-to-scroll-to-an-element-in-react/
 
-📺 YouTube: https://youtube.com/colbyfayock
+📺 YouTube: https://www.youtube.com/watch?v=MjHlltcA-nA
 
 🚀 Demo: https://my-scrolling.vercel.app/
 
