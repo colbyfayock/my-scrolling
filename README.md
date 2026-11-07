@@ -6,7 +6,6 @@ Demo for tutorial [How to Scroll to an Element in React](https://www.youtube.com
 
 📺 YouTube: https://www.youtube.com/watch?v=MjHlltcA-nA
 
-🚀 Demo: https://my-scrolling.vercel.app/
 
 ## More tutorials and walkthroughs
 
